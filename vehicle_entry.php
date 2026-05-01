@@ -33,3 +33,5 @@ include 'header.php';
 <div class="col-md-12"><button class="btn btn-primary">Save Entry</button></div>
 </form></div></div>
 <?php include 'footer.php'; ?>
+
+// This file is part of the Parking Lot Management System (PLMS) project.
