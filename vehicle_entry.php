@@ -34,4 +34,4 @@ include 'header.php';
 </form></div></div>
 <?php include 'footer.php'; ?>
 
-// This file is part of the Parking Lot Management System (PLMS) project.
+
