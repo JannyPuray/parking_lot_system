@@ -20,4 +20,3 @@ include 'header.php';
 <div class="row g-3"><?php foreach($slots as $s): ?><div class="col-md-3"><div class="card slot-card <?= $s['status'] ?>"><div class="card-body d-flex justify-content-between align-items-center"><div><h4><?= e($s['slot_number']) ?></h4><span class="badge bg-<?= $s['status']=='vacant'?'success':'danger' ?>"><?= e($s['status']) ?></span></div><?php if($s['status']=='vacant'): ?><form method="post" onsubmit="return confirm('Delete this slot?')"><input type="hidden" name="slot_id" value="<?= $s['id'] ?>"><button name="delete_slot" class="btn btn-outline-danger btn-sm">Delete</button></form><?php endif; ?></div></div></div><?php endforeach; ?></div>
 <?php include 'footer.php'; ?>
 
-// This file manages parking slots. Admins can add new slots or delete vacant ones. It displays all slots with their status and provides a form for adding new slots. 
