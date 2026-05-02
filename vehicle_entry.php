@@ -35,3 +35,4 @@ include 'header.php';
 <?php include 'footer.php'; ?>
 
 
+// This file handles the entry of new vehicles into the parking lot. It provides a form for admins to input vehicle details and select an available parking slot. Upon submission, it checks for duplicate entries, records the vehicle information in the database, and updates the status of the selected parking slot to "occupied". 
