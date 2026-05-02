@@ -18,3 +18,4 @@ include 'header.php';
 </div>
 <div class="card shadow-sm"><div class="card-header bg-white fw-bold">Recent Transactions</div><div class="table-responsive"><table class="table table-striped mb-0"><thead><tr><th>Plate</th><th>Type</th><th>Slot</th><th>Time In</th><th>Time Out</th><th>Fee</th><th>Status</th></tr></thead><tbody><?php foreach($recent as $r): ?><tr><td><?= e($r['plate_number']) ?></td><td><?= e($r['vehicle_type']) ?></td><td><?= e($r['slot_number']) ?></td><td><?= e($r['time_in']) ?></td><td><?= e($r['time_out'] ?: '-') ?></td><td>₱<?= number_format($r['fee'],2) ?></td><td><span class="badge bg-<?= $r['status']=='parked'?'warning':'success' ?>"><?= e($r['status']) ?></span></td></tr><?php endforeach; ?></tbody></table></div></div>
 <?php include 'footer.php'; ?>
+
