@@ -33,3 +33,5 @@ function e($value) {
     return htmlspecialchars((string)$value, ENT_QUOTES, 'UTF-8');
 }
 ?>
+
+// This file contains the configuration for the application, including database connection and helper functions for authentication and redirection. It is included at the top of all other PHP files to ensure consistent access to these resources.    
