@@ -12,3 +12,4 @@ body { background: #f5f7fb; }
 .slot-card.occupied { border-left-color: #dc3545; }
 .table th { white-space: nowrap; }
 @media print { .navbar, .no-print, .btn { display: none !important; } body { background: #fff; } .card { box-shadow: none !important; } }
+
