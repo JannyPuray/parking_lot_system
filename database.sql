@@ -40,3 +40,4 @@ INSERT INTO parking_slots (slot_number, status) VALUES
 ('A-01','vacant'),('A-02','vacant'),('A-03','vacant'),('A-04','vacant'),('A-05','vacant'),
 ('B-01','vacant'),('B-02','vacant'),('B-03','vacant'),('B-04','vacant'),('B-05','vacant')
 ON DUPLICATE KEY UPDATE slot_number=slot_number;
+
