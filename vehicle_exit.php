@@ -26,3 +26,4 @@ include 'header.php';
 <?php endforeach; if(!$parked): ?><tr><td colspan="8" class="text-center text-muted py-4">No parked vehicles.</td></tr><?php endif; ?>
 </tbody></table></div></div>
 <?php include 'footer.php'; ?>
+
