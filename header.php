@@ -31,3 +31,5 @@
 </nav>
 <?php endif; ?>
 <main class="container py-4">
+
+  // The navigation bar includes links to the dashboard, parking slots management, vehicle entry and exit forms, and reports. It also shows a greeting with the user's full name and a logout button. 
