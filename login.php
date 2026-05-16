@@ -41,3 +41,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   </div>
 </body>
 </html>
+
+// change the default credentials and use strong passwords in production.

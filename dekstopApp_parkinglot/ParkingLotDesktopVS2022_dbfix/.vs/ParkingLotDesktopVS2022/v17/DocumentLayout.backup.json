@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|c:\\xampp\\htdocs\\parking_lot_system\\dekstopapp_parkinglot\\parkinglotdesktopvs2022_dbfix\\parkinglotdesktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|solutionrelative:parkinglotdesktop\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|c:\\xampp\\htdocs\\parking_lot_system\\dekstopapp_parkinglot\\parkinglotdesktopvs2022_dbfix\\parkinglotdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|solutionrelative:parkinglotdesktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|c:\\xampp\\htdocs\\parking_lot_system\\dekstopapp_parkinglot\\parkinglotdesktopvs2022_dbfix\\parkinglotdesktop\\exitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|solutionrelative:parkinglotdesktop\\exitform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|c:\\xampp\\htdocs\\parking_lot_system\\dekstopapp_parkinglot\\parkinglotdesktopvs2022_dbfix\\parkinglotdesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A0B8175-2D17-4D90-9F50-9D654C4DB001}|ParkingLotDesktop\\ParkingLotDesktop.csproj|solutionrelative:parkinglotdesktop\\entryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +47,54 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\MainForm.cs",
+              "RelativeDocumentMoniker": "ParkingLotDesktop\\MainForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\MainForm.cs [Design]",
+              "RelativeToolTip": "ParkingLotDesktop\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:07:05.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ParkingLotDesktop\\LoginForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ParkingLotDesktop\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:07:01.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExitForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\ExitForm.cs",
+              "RelativeDocumentMoniker": "ParkingLotDesktop\\ExitForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\ExitForm.cs [Design]",
+              "RelativeToolTip": "ParkingLotDesktop\\ExitForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:06:52.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntryForm.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\EntryForm.cs",
+              "RelativeDocumentMoniker": "ParkingLotDesktop\\EntryForm.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\parking_lot_system\\dekstopApp_parkinglot\\ParkingLotDesktopVS2022_dbfix\\ParkingLotDesktop\\EntryForm.cs [Design]",
+              "RelativeToolTip": "ParkingLotDesktop\\EntryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:05:33.122Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",

@@ -56,3 +56,9 @@ C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022
 C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.pdb
 C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.genruntimeconfig.cache
 C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ref\ParkingLotDesktop.dll
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.EntryForm.resources
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.ExitForm.resources
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.LoginForm.resources
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.MainForm.resources
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.csproj.GenerateResource.cache
+C:\xampp\htdocs\parking_lot_system\dekstopApp_parkinglot\ParkingLotDesktopVS2022_dbfix\ParkingLotDesktop\obj\Debug\net8.0-windows\ParkingLotDesktop.sourcelink.json
